@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-gardena | what happens after an arrest in Gardena | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-gardena | how do bail bonds work in Gardena | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-gardena | how much is bail in Los Angeles County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-gardena | how much is bail in Los Angeles County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-gardena | how to get someone out of jail in Gardena | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-gardena | domestic violence bail bonds Gardena | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-gardena | DUI bail bonds Gardena | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-gardena | felony bail bonds Gardena | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-gardena-bail-bonds | gardena bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-gardena | drug possession bail Gardena | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-gardena | can you bail someone out at night in Gardena | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-gardena | how long does it take to bail someone out of Gardena PD Jail | Timeline | ⬜ |
