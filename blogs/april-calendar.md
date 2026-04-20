@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-gardena | how much does a bail bondsman charge in Gardena | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-gardena | bail bond payment plan Gardena | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-gardena | jail booking process at Gardena PD Jail | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-gardena | how to find someone in jail Gardena | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-gardena | what to expect at arraignment Torrance Courthouse | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-gardena | bail hearing process in Los Angeles County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-gardena | warrant bail bonds Gardena | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-gardena | what happens if you miss court date Gardena | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-gardena | assault and battery bail bonds Gardena | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-gardena | theft and burglary bail bonds Gardena | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-gardena | how to choose a bail bondsman in Gardena | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-gardena | what does a bail bond cosigner do Gardena | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-gardena | bail conditions and restrictions Los Angeles County | Conditions | ⬜ |
+| 2026-04-21 | Tue | restraining-order-bail-gardena | restraining order and bail Gardena | Restraining Order | ⬜ |
+| 2026-04-22 | Wed | bail-bond-cost-gardena | how much does a bail bondsman charge in Gardena | Costs | ⬜ |
+| 2026-04-23 | Thu | bail-bond-payment-plan-gardena | bail bond payment plan Gardena | Payment Plans | ⬜ |
+| 2026-04-24 | Fri | jail-booking-process-gardena | jail booking process in Gardena | Jail Process | ⬜ |
+| 2026-04-25 | Sat | inmate-search-gardena | how to find someone in jail Gardena | Inmate Search | ⬜ |
+| 2026-04-26 | Sun | what-to-expect-arraignment-gardena | what to expect at arraignment in Los Angeles | Court Process | ⬜ |
+| 2026-04-27 | Mon | bail-hearing-gardena | bail hearing process in Los Angeles | Bail Hearing | ⬜ |
+| 2026-04-28 | Tue | warrant-bail-bonds-gardena | warrant bail bonds Gardena | Warrants | ⬜ |
+| 2026-04-29 | Wed | what-happens-miss-court-gardena | what happens if you miss court date Gardena | FTA | ⬜ |
+| 2026-04-30 | Thu | assault-bail-bonds-gardena | assault and battery bail bonds Gardena | Assault | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
